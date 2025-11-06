@@ -37,7 +37,6 @@ Je suis ouvert aux opportunités d'alternance et aux discussions techniques. N'h
 | Ressource | Lien |
 | :--- | :--- |
 | **Portfolio & Projets** | [gricourtdavid.fr](https://gricourtdavid.fr) |
-| **Email** | gricourtdavid@gmail.com |
 
 ---
 **Développé par Arnille07.**
